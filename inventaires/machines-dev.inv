@@ -1,0 +1,2 @@
+[Debian]
+192.168.4.55 ansible_user=root
